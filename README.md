@@ -5,6 +5,9 @@
 <img src="https://media.giphy.com/media/TNb3Ihssb6T5FpcdOY/giphy.gif" alt="Alt Text" style="border-radius: 25px;">
 
 ---
+### What I'm Doing
+🔨 Working on Boxing Nutrition Tracker (Mobile App)
+🌱 Learning React.js
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
