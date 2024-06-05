@@ -1,6 +1,6 @@
 # 👑 Dominion Gbadamosi
 
-**`Student/Developer`**
+**`Software Engineer`**
 
 <img src="https://media.giphy.com/media/TNb3Ihssb6T5FpcdOY/giphy.gif" alt="Alt Text" style="border-radius: 25px;">
 
