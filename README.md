@@ -1,14 +1,14 @@
 # 👑 Dominion Gbadamosi
 
-**`Software Engineer`**
+**` Software Engineer `**
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZwa3hqZXRtOG44Y2xzdnY5ZHpjY2FxZDRoa3FneTdxMGNhOWZpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J3rGigrYfx8aKqI/giphy.gif" alt="Alt Text" style="border-radius: 25px, flex, justify-content=center">
 
 
 ---
 ### What I'm Doing
-🔨 Building Personal Portfolio (Next.js)
-🐦 Working on a Twitter Clone
+🌐 Creating a Chrome extension <br />
+👷🏽‍♂️ Reworking an old project
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
