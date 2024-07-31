@@ -1,4 +1,4 @@
-# 👑 Dominion Gbadamosi
+# Dominion Gbadamosi 🌟
 
 **` Software Engineer `**
 
