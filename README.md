@@ -8,6 +8,16 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZwa3hqZXRtOG44Y2xzdnY5ZHpjY2FxZDRoa3FneTdxMGNhOWZpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J3rGigrYfx8aKqI/giphy.gif" alt="Coding GIF" style="border-radius: 25px;"/>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/dominion-gbadamosi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
+  </a>
+  <a href="https://leetcode.com/kiing-dom" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" style="margin: 0 10px;" />
+  </a>
+</p>
+
+
 ---
 
 <h2 align="center">What I'm Doing</h2>
