@@ -8,17 +8,36 @@
 <p align="center">
   <code>Software Engineer</code>
 </p>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZwa3hqZXRtOG44Y2xzdnY5ZHpjY2FxZDRoa3FneTdxMGNhOWZpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J3rGigrYfx8aKqI/giphy.gif" alt="Coding GIF" style="border-radius: 25px;"/>
-</p>
+<div
+    style="margin: 5px;"
+>
+    <p
+        style="margin:0;padding:0;"
+        align="center"
+        dir="auto"
+    >
+        <a
+            target="_self"
+            style="width:100%; max-width:100%;"
+            rel="noopener norefferer nofollow"
+            href="/"
+        >
+            <img
+                src="https://komarev.com/ghpvc/?username=kiing-dom&style=flat-square&color=8868bd"
+                alt="Profile Views"
+                style="background-color: transparent;"
+            >
+        </a>
+    </p>
+</div>
 
 ---
 
-<h2 align="center">What I'm Doing</h2>
+<h2 align="center">What I'm Doing Currently</h2>
 
-<p align="center">Learning a lot 🌱</p>
-
+- 👷🏾‍♂️ Building full stack project with Spring Boot, Spring Security, React
+- 📝 Documenting my improvements in video form
+- Getting better at using my tools
 ---
 
 <h2 align="center">🧰 Languages and Tools</h2>
@@ -53,6 +72,7 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="AWS" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" style="margin:10px;" />
