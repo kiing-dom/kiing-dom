@@ -44,14 +44,11 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin:10px;" />
 </p>
 
