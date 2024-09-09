@@ -35,9 +35,8 @@
 
 <h2 align="center">What I'm Doing Currently</h2>
 
-- 👷🏾‍♂️ Building full stack project with Spring Boot, Spring Security, React
-- 📝 Documenting my improvements in video form
-- Getting better at using my tools
+- 👷🏾‍♂️ building cool projects
+- 🌱 learning every day
 ---
 
 <h2 align="center">🧰 Languages and Tools</h2>
