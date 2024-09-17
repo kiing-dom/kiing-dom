@@ -33,10 +33,10 @@
 
 ---
 
-<h2 align="center">What I'm Doing Currently</h2>
+<h2 align="center">Currently Doing ⏳</h2>
 
-- 👷🏾‍♂️ building cool projects
-- 🌱 learning every day
+- 👷🏾‍♂️ **Building cool projects**
+- 🌱 **Learning every day**
 ---
 
 <h2 align="center">🧰 Languages and Tools</h2>
