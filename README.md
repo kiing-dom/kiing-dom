@@ -67,7 +67,8 @@
 <h2 align="center">📊 Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiing-dom&theme=midnight-purple&show_icons=true" alt="Dominion's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiing-dom&theme=midnight-purple" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiing-dom&theme=midnight-purple&exclude_repo=CS4287" alt="Top Languages" />
+
 </p>
 </td>
 </tr>
