@@ -17,8 +17,7 @@
 
 <h2 align="center">Currently Doing ⏳</h2>
 
-- 👷🏾‍♂️ Building cool projects
-- 🌱 Learning every day
+- 🌱 <strong>The grind is always on</strong>
 
 
 <table>
