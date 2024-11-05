@@ -1,5 +1,4 @@
 <h1 align="center">
-  Dominion Gbadamosi 🌟
   <a href="https://www.linkedin.com/in/dominion-gbadamosi" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" height="30" />
   </a>
