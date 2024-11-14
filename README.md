@@ -16,7 +16,7 @@
 
 <h2 align="center">Currently Doing ⏳</h2>
 
-- 🌱 <strong>the grind is always on 🕺🏾</strong>
+- <strong>the grind is always on 🕺🏾</strong>
 
 
 <table>
