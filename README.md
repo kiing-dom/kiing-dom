@@ -16,9 +16,6 @@
 </div>
 
 <h2 align="center">Currently Doing ⏳</h2>
-
-- <strong>the grind is always on 🕺🏾</strong>
-
 <table>
 <tr>
 <td width="50%">
