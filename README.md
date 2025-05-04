@@ -4,7 +4,8 @@ Been experimenting a lot with integrating ML pipelines into my backend projects 
 Currently unemployed but building my skills daily.
 
 - [LinkedIn](https://www.linkedin.com/dominion-gbadamosi)
-- [X](https://www.x.com/_dngi)
+- [Twitter/X](https://www.x.com/_dngi)
+- [Medium](https://medium.com/@dngi267)
 
 Interests
 - API design
