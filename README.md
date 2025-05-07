@@ -1,7 +1,7 @@
 ### Dominion Gbadamosi
 Been experimenting a lot with integrating ML pipelines into my backend projects and documenting the process.
 
-Currently unemployed but building my skills daily.
+working @ `null`
 
 - [LinkedIn](https://www.linkedin.com/dominion-gbadamosi)
 - [Twitter/X](https://www.x.com/_dngi)
