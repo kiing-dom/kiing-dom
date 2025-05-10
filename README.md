@@ -10,6 +10,7 @@ working @ `null`
 Interests
 - API design
 - Databases
+- AI/ML
 
 #### Contact Info
 - Discord: `@267dngi`
