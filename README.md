@@ -13,4 +13,5 @@ Interests
 - AI/ML
 
 #### Contact Info
+- Email: `dom1<at>gmail.com`
 - Discord: `@267dngi`
