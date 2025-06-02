@@ -1,3 +1,8 @@
+<a href="/" target="_self">
+  <img src="https://komarev.com/ghpvc/?username=kiing-dom&style=flat-square&color=000000"
+  alt="Profile Views" />
+</a>
+
 ### Dominion Gbadamosi
 Been experimenting a lot with integrating ML pipelines into my backend projects and documenting the process.
 
