@@ -7,7 +7,6 @@
 Been experimenting a lot with integrating ML pipelines into my backend projects and documenting the process.
 
 - [LinkedIn](https://www.linkedin.com/dominion-gbadamosi)
-- [Twitter/X](https://www.x.com/_dngi)
 - [Medium](https://medium.com/@dngi267)
 
 Interests
@@ -18,4 +17,4 @@ Interests
 #### Contact Info
 - Email: `dom1<at>gmail.com`
 - Discord: `@267dngi`
-- ![Twitter](https://twitter.com/@_dngi)
+- [Twitter/X](https://www.x.com/_dngi)
