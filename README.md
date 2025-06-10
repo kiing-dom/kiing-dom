@@ -8,6 +8,7 @@ Been experimenting a lot with integrating ML pipelines into my backend projects 
 
 - [LinkedIn](https://www.linkedin.com/dominion-gbadamosi)
 - [Medium](https://medium.com/@dngi267)
+- [Portfolio](https://dominion-gbadamosi.xyz/)
 
 Interests
 - API design
