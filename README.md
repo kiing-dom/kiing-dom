@@ -21,6 +21,6 @@ Interests
 - [Twitter/X](https://www.x.com/_dngi)
 
 &nbsp;![](https://komarev.com/ghpvc/?username=kiing-dom&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiing-dom&show_icons=true&rank_icon=github&locale=en" alt="kiing-dom" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiing-dom&layout=compact&hide_border=true&&langs_count=6&show_icons=true&hide=Jupyter%20Notebook,HTML,CSS" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiing-dom&show_icons=true&rank_icon=github&locale=en&theme=dracula" alt="kiing-dom" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiing-dom&layout=compact&hide_border=true&langs_count=6&show_icons=true&hide=Jupyter%20Notebook,HTML,CSS&theme=dracula" />
+
