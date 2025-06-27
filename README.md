@@ -1,26 +1,22 @@
-<a href="/" target="_self">
-  <img src="https://komarev.com/ghpvc/?username=kiing-dom&style=flat-square&color=000000"
-  alt="Profile Views" />
-</a>
 
 ### Dominion Gbadamosi
-Been experimenting a lot with integrating ML pipelines into my backend projects and documenting the process.
+###### so much to learn everyday
 
-- [LinkedIn](https://www.linkedin.com/dominion-gbadamosi)
-- [Medium](https://medium.com/@dngi267)
-- [Portfolio](https://dominion-gbadamosi.xyz/)
+&nbsp;![](https://komarev.com/ghpvc/?username=kiing-dom&color=000000)
+- [linkedin](https://www.linkedin.com/dominion-gbadamosi)
+- [medium blogs](https://medium.com/@dngi267)
+- [portfolio](https://dominion-gbadamosi.xyz/)
 
 Interests
-- API design
-- Databases
-- AI/ML
+- api design
+- databases
+- ai/ml
 
-#### Contact Info
-- Email: `dom1<at>gmail.com`
+#### Contact Me
 - Discord: `@267dngi`
 - [Twitter/X](https://www.x.com/_dngi)
 
-&nbsp;![](https://komarev.com/ghpvc/?username=kiing-dom&color=brightgreen)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiing-dom&show_icons=true&rank_icon=github&locale=en&theme=dracula" alt="kiing-dom" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiing-dom&layout=compact&hide_border=true&langs_count=6&show_icons=true&hide=Jupyter%20Notebook,HTML,CSS&theme=dracula" />
 
