@@ -5,23 +5,23 @@
 
 
   <!-- Links -->
-  <h4>Links</h4>
+  <h4>links</h4>
   <p>
-    <a href="https://www.linkedin.com/dominion-gbadamosi" target="_blank">LinkedIn</a> | 
-    <a href="https://medium.com/@dngi267" target="_blank">Medium Blogs</a> | 
-    <a href="https://dominion-gbadamosi.xyz/" target="_blank">Portfolio</a>
+    <a href="https://www.linkedin.com/dominion-gbadamosi" target="_blank">linkedin</a> | 
+    <a href="https://medium.com/@dngi267" target="_blank">medium</a> | 
+    <a href="https://dominion-gbadamosi.xyz/" target="_blank">portfolio</a>
   </p>
 
   <!-- Interests -->
-  <h4>Interests</h4>
+  <h4>interests</h4>
   <ul>
-    <li>API Design</li>
-    <li>Databases</li>
-    <li>AI/ML</li>
+    <li>api design</li>
+    <li>databases</li>
+    <li>ai/ml</li>
   </ul>
 
   <!-- Contact Me -->
-  <h4>Contact Me</h4>
+  <h4>contact me</h4>
   <p>
     Discord: <code>@267dngi</code> <br />
     <a href="https://www.x.com/_dngi" target="_blank">Twitter/X</a>
