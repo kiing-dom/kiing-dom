@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
   <h3>Dominion Gbadamosi</h3>
   <h6>so much to learn everyday</h6>
@@ -14,7 +14,11 @@
 
   <!-- Interests -->
   <h4>Interests</h4>
-  <p>API Design • Databases • AI/ML</p>
+  <ul>
+    <li>API Design</li>
+    <li>Databases</li>
+    <li>AI/ML</li>
+  </ul>
 
   <!-- Contact Me -->
   <h4>Contact Me</h4>
