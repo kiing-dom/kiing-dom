@@ -1,41 +1,29 @@
 <div align="left">
 
-  <h3>Dominion Gbadamosi</h3>
-  <h6>so much to learn everyday</h6>
+### Dominion Gbadamosi  
+###### so much to learn everyday  
 
+#### links  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-rounded&logo=linkedin&logoColor=white)](https://www.linkedin.com/dominion-gbadamosi)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-rounded&logo=medium&logoColor=white)](https://medium.com/@dngi267)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=flat-rounded&logo=vercel&logoColor=white)](https://dominion-gbadamosi.xyz)
 
-  <!-- Links -->
-  <h4>links</h4>
-  <p>
-    <a href="https://www.linkedin.com/dominion-gbadamosi" target="_blank">linkedin</a> | 
-    <a href="https://medium.com/@dngi267" target="_blank">medium</a> | 
-    <a href="https://dominion-gbadamosi.xyz/" target="_blank">portfolio</a>
-  </p>
+#### interests  
+- API Design  
+- Databases  
+- AI/ML  
 
-  <!-- Interests -->
-  <h4>interests</h4>
-  <ul>
-    <li>api design</li>
-    <li>databases</li>
-    <li>ai/ml</li>
-  </ul>
-
-  <!-- Contact Me -->
-  <h4>contact me</h4>
-  <p>
-    Discord: <code>@267dngi</code> <br />
-    <a href="https://www.x.com/_dngi" target="_blank">Twitter/X</a>
-  </p>
+#### contact me  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-rounded&logo=discord&logoColor=white)](https://discord.com/users/267dngi)
+[![X (Twitter)](https://img.shields.io/badge/Twitter/X-000000?style=flat-rounded&logo=x&logoColor=white)](https://www.x.com/_dngi)
   
-  <!-- Profile Views Badge -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=kiing-dom&color=000000" alt="Profile Views" />
-  </p>
+![Profile Views](https://komarev.com/ghpvc/?username=kiing-dom&color=000000&style=flat-rounded)
 
-  <!-- GitHub Stats -->
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kiing-dom&show_icons=true&locale=en&theme=rose&hide_title=true&card_width=300" alt="kiing-dom" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiing-dom&layout=compact&hide_border=true&langs_count=6&show_icons=true&hide=Jupyter%20Notebook,HTML,CSS&theme=rose&card_width=300" alt="kiing-dom Top Languages" />
-  </div>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiing-dom&show_icons=true&locale=en&theme=rose&hide_title=true&card_width=300)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiing-dom&layout=compact&hide_border=true&langs_count=6&show_icons=true&hide=Jupyter%20Notebook,HTML,CSS&theme=rose&card_width=300)
+
+</div>
 
 </div>
