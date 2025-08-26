@@ -6,7 +6,7 @@
 #### links  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-rounded&logo=linkedin&logoColor=white)](https://www.linkedin.com/dominion-gbadamosi)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-rounded&logo=medium&logoColor=white)](https://medium.com/@dngi267)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=flat-rounded&logo=vercel&logoColor=white)](https://dominion-gbadamosi.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=flat-rounded&logo=vercel&logoColor=white&target=_blank)](https://dominion-gbadamosi.xyz)
 
 #### interests  
 - API Design  
