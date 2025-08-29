@@ -1,7 +1,7 @@
 <div align="left">
 
 ### Dominion Gbadamosi  
-###### so much to learn everyday  
+> "so much to learn everyday"
 
 #### links  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-rounded&logo=linkedin&logoColor=white)](https://www.linkedin.com/dominion-gbadamosi)
