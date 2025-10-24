@@ -4,4 +4,4 @@ zzz
 [![Twitter](https://img.shields.io/badge/X-@_dngi-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/@_dngi)
 
 saas products\
-• [brandalyze](https://brandalyze.io)
+• [brandalyze.io](https://brandalyze.io)
