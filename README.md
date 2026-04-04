@@ -1,6 +1,6 @@
 currenly working @ `<COMPANY>` (team matching @ google rn)
 
-pursuit of fun. <br>
+pursuit of greatness. <br>
 if I'm curious about it, I'll build it
 
 [twitter](https://twitter.com/@_dngi) <br>
