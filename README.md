@@ -1,4 +1,4 @@
-currenly working @ `<COMPANY>` (team matching @ google rn)
+currenly working @ `<COMPANY>`
 
 pursuit of greatness. <br>
 if I'm curious about it, I'll build it
