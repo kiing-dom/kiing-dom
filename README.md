@@ -1,7 +1,6 @@
-currenly working @ `<COMPANY>`
+currenly working on IWAJU LABS (my own project collective)
 
-pursuit of greatness. <br>
-if I'm curious about it, I'll build it
+in pursuit of greatness. <br>
 
-[yt](https://youtube.com/@267dngi) <br>
 [twt](https://twitter.com/@_dngi) <br>
+[yt](https://youtube.com/@267dngi) <br>
