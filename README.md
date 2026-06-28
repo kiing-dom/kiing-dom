@@ -1,6 +1,8 @@
-currenly working on IWAJU LABS (my own project collective)
+currently working on **iwaju labs**
 
-in pursuit of greatness. <br>
+in pursuit of greatness.
 
-[twt](https://twitter.com/@_dngi) <br>
-[yt](https://youtube.com/@267dngi) <br>
+<br>
+
+[twt](https://twitter.com/@_dngi)  
+[yt](https://youtube.com/@267dngi)
