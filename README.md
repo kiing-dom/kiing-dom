@@ -1,4 +1,4 @@
-currently working on **iwaju labs**
+currently working on **DNGICORP** (personal projects/brand).
 
 in pursuit of greatness.
 
@@ -6,3 +6,4 @@ in pursuit of greatness.
 
 [twt](https://twitter.com/@_dngi)  
 [yt](https://youtube.com/@267dngi)
+[ig](https://instagram.com/267dngi)
