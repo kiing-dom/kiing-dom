@@ -1,6 +1,4 @@
-currently working on **DNGICORP** (personal projects/brand).
-
-in pursuit of greatness.
+never tired
 
 <br>
 
